@@ -14,3 +14,5 @@ This module is a part of Imagine'19 Cloud Lab session.
 * [Cloud Docker images](https://cloud.docker.com/u/magento): A set of pre-build images on Docker Hub
 
 # Environment setup
+
+Follow instruction on [DevDocs](https://devdocs.magento.com/guides/v2.3/cloud/docker/docker-development.html)
